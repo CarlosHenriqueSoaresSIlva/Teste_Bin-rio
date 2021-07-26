@@ -1,0 +1,22 @@
+{
+    "name": "calculadora",
+    "version": "1.0.0",
+    "description":"calculadora de binário",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CarlosHenriqueSoaresSIlva/TesteEmprego.git"
+      }
+      "keywords": [],
+      "author": "Carlos Henrique Soares Silva",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://github.com/CarlosHenriqueSoaresSIlva/TesteEmprego/issues"
+      },
+      "homepage": "https://github.com/CarlosHenriqueSoaresSIlva/TesteEmprego#readme",
+}
